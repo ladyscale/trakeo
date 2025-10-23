@@ -27,11 +27,19 @@
             "text": "Paiement 100% sécurisé",
             "url": ""
           }
+        },
+        "message_znWWaQ": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou Remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_Wyy7Kq"
+        "message_Wyy7Kq",
+        "message_znWWaQ"
       ],
       "settings": {
         "enable_sticky": false,
