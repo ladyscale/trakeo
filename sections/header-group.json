@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_Wyy7Kq": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_Wyy7Kq"
       ],
       "settings": {
         "enable_sticky": false,
