@@ -11,23 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "image_with_text_overlay_6Rj33K": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/image.bureau.banner.jpg",
-        "mobile_image": "shopify://shop_images/image.banner.mobile.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -62,6 +45,7 @@
         "links",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
@@ -74,7 +58,6 @@
     }
   },
   "order": [
-    "image_with_text_overlay_6Rj33K",
     "footer"
   ]
 }
