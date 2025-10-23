@@ -102,8 +102,8 @@
         "show_country_name": false,
         "transparent_header_text_color": "#f2f6fc",
         "transparent_logo": "shopify://shop_images/logo_fond_blanc_1.png",
-        "reduce_padding": false,
-        "background_opacity": 97,
+        "reduce_padding": true,
+        "background_opacity": 84,
         "background_blur_radius": 0
       }
     }
