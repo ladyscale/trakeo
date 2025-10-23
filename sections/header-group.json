@@ -83,9 +83,10 @@
       "block_order": [
         "mega_menu_Ne646B"
       ],
+      "disabled": true,
       "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": true,
+        "enable_sticky": false,
+        "hide_on_scroll": false,
         "logo": "shopify://shop_images/logo_fond_blanc_1.png",
         "logo_max_width": 270,
         "logo_mobile_max_width": 100,
@@ -102,7 +103,7 @@
         "show_country_name": false,
         "transparent_header_text_color": "#f2f6fc",
         "transparent_logo": "shopify://shop_images/logo_fond_blanc_1.png",
-        "reduce_padding": true,
+        "reduce_padding": false,
         "background_opacity": 97,
         "background_blur_radius": 0
       }
