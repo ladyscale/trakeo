@@ -58,8 +58,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/LOGO_TRAKEO_PRO.png",
+        "logo_max_width": 300,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
