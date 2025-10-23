@@ -56,7 +56,7 @@
     "header": {
       "type": "header",
       "blocks": {
-        "mega_menu_XcjAEY": {
+        "mega_menu_3xGAfA": {
           "type": "mega_menu",
           "settings": {
             "menu_item": "",
@@ -81,10 +81,10 @@
         }
       },
       "block_order": [
-        "mega_menu_XcjAEY"
+        "mega_menu_3xGAfA"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/logo_fond_blanc_1.png",
         "logo_max_width": 300,
