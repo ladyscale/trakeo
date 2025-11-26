@@ -731,6 +731,27 @@
             "title": "Puis-je utiliser le sérum seul?",
             "content": "<p>Oui, mais la combinaison lumière + sérum offre une action plus complète et de meilleurs résultats.</p>"
           }
+        },
+        "item_fmJzGF": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure une séance ?",
+            "content": "<p>Chaque séance dure 7 minutes, à réaliser 2 fois par jour.</p>"
+          }
+        },
+        "item_PPicGd": {
+          "type": "item",
+          "settings": {
+            "title": "Comment éviter que la mycose revienne ?",
+            "content": "<p>Séchez vos pieds après la douche, changez de chaussettes quotidiennement, désinfectez vos chaussures et évitez les<br/>environnements humides pieds nus (piscines, douches publiques).</p>"
+          }
+        },
+        "item_rcDWqb": {
+          "type": "item",
+          "settings": {
+            "title": "Dois-je consulter un médecin ?",
+            "content": "<p>Si les symptômes persistent ou évoluent malgré l’utilisation régulière de MYCOSYL, un avis médical peut compléter votre prise en charge, notamment en cas de mycose sévère.</p>"
+          }
         }
       },
       "block_order": [
@@ -742,7 +763,10 @@
         "item_HrR6hm",
         "item_jUWgxX",
         "item_VchBcc",
-        "item_pDcQR3"
+        "item_pDcQR3",
+        "item_fmJzGF",
+        "item_PPicGd",
+        "item_rcDWqb"
       ],
       "name": "FAQ",
       "settings": {
