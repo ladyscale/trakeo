@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 13,
-        "background": "#004aad",
+        "background": "#58c2a3",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -86,6 +86,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/LOGO_MYCOSYL.png",
         "logo_max_width": 270,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -100,7 +101,6 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#1a1a1a",
-        "transparent_logo": "shopify://shop_images/LOGO_MYCOSYL.png",
         "reduce_padding": true,
         "background_opacity": 84,
         "background_blur_radius": 0
