@@ -170,27 +170,12 @@
         "subheading_h7K76e": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_QjhVeb": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_TpwJQR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": ""
           }
         }
       },
       "block_order": [
-        "subheading_h7K76e",
-        "heading_QjhVeb",
-        "richtext_TpwJQR"
+        "subheading_h7K76e"
       ],
       "name": "Image with text overlay",
       "settings": {
