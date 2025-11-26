@@ -191,6 +191,65 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "logo_list_LbRmRk": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_aPHnkb": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/51AF9D60-2F87-4E74-99D8-BCA16E8D3E46.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Q33yJJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Copie_de_Black_and_Pink_Sweet_Food_Logo.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_XC4jyJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Copie_de_Black_and_Pink_Sweet_Food_Logo_1.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8VeJE8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/l2.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_aPHnkb",
+        "logo_Q33yJJ",
+        "logo_XC4jyJ",
+        "logo_8VeJE8"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
@@ -199,6 +258,7 @@
     "faq",
     "faq_nrtUKU",
     "slideshow_gTG4y7",
-    "image_with_text_overlay_tdrjPn"
+    "image_with_text_overlay_tdrjPn",
+    "logo_list_LbRmRk"
   ]
 }
