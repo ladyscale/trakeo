@@ -343,6 +343,110 @@
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
+    },
+    "multi_column_xXATxW": {
+      "type": "multi-column",
+      "blocks": {
+        "item_ABNpkw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_3.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NxPnGz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_3.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zTfRbR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_4.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Lpz4Qr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_1.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EC4yGF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_7.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_taVV76": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_2.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_ABNpkw",
+        "item_NxPnGz",
+        "item_zTfRbR",
+        "item_Lpz4Qr",
+        "item_EC4yGF",
+        "item_taVV76"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -356,6 +460,7 @@
     "rich_text_NbDNrF",
     "image_with_text_overlay_hnydJp",
     "rich_text_8Ji3ex",
-    "before_after_image_AGg7LN"
+    "before_after_image_AGg7LN",
+    "multi_column_xXATxW"
   ]
 }
