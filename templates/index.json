@@ -258,7 +258,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Mycosyl?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -269,7 +269,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "content_width": "small",
         "text_position": "center",
         "background": "",
