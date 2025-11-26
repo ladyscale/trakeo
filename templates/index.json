@@ -710,6 +710,13 @@
             "title": "La mycose peut-elle revenir ?",
             "content": "<p>Oui, surtout si le traitement est arrêté trop tôt ou si l’environnement reste humide.</p><p>Après amélioration, MYCOSYL peut être utilisé en entretien pour limiter les récidives.</p><p><strong> </strong></p>"
           }
+        },
+        "item_jUWgxX": {
+          "type": "item",
+          "settings": {
+            "title": "Le sérum MYCOSYL est-il adapté aux ongles fragilisés?",
+            "content": "<p>Oui. Sa formule douce convient aux ongles fragiles ou abîmés et aux peaux sensibles.</p><p>Il peut être utilisé quotidiennement sans irritation.</p>"
+          }
         }
       },
       "block_order": [
@@ -718,7 +725,8 @@
         "item_DXN4LC",
         "item_74zfJE",
         "item_Gwemyz",
-        "item_HrR6hm"
+        "item_HrR6hm",
+        "item_jUWgxX"
       ],
       "name": "FAQ",
       "settings": {
