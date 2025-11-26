@@ -578,7 +578,7 @@
           "type": "tab",
           "settings": {
             "title": "Service clients 7j/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@mycosyl.com.</p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse <strong>contact@mycosyl.com.</strong></p>",
             "page": ""
           }
         }
@@ -673,7 +673,7 @@
           "type": "item",
           "settings": {
             "title": "Comment reconnaître une mycose des ongles ?",
-            "content": "<p>Une mycose provoque souvent un ongle jauni, épaissi,<br/>friable, déformé ou partiellement décollé.</p><p>Si vous remarquez ces signes, il est conseillé d’agir rapidement.</p>"
+            "content": "<p>Une mycose provoque souvent un ongle jauni, épaissi, friable, déformé ou partiellement décollé.</p><p>Si vous remarquez ces signes, il est conseillé d’agir rapidement.</p>"
           }
         },
         "item_WFQhY7": {
