@@ -463,12 +463,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_rbEUaU": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 6 restants</div>\n</div>"
-          }
-        },
         "badges_8mWkiw": {
           "type": "badges",
           "settings": {}
@@ -477,6 +471,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_rbEUaU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 6 restants</div>\n</div>"
           }
         },
         "rating_UDj8qP": {
@@ -512,6 +512,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_TWp9VD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BLACK_FRIDAY_Offres_Exclusives_STOCK_LIMITE.png",
+            "alignment": "center",
+            "max_width": 440
+          }
+        },
         "buy_buttons_EDGkb6": {
           "type": "buy_buttons",
           "settings": {
@@ -523,6 +531,14 @@
             "payment_button_text_color": "#58c2a3"
           }
         },
+        "image_hCEHnr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge_de_confiance.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_mBXdEm": {
           "type": "pickup_availability",
           "settings": {}
@@ -531,15 +547,17 @@
       "block_order": [
         "liquid_VEUy6X",
         "title_PdXVmq",
-        "liquid_rbEUaU",
         "badges_8mWkiw",
         "price_PgHJcj",
+        "liquid_rbEUaU",
         "rating_UDj8qP",
         "separator_W7C8tE",
         "description_86y4eN",
         "variant_picker_awFt4L",
         "quantity_selector_ERjDRr",
+        "image_TWp9VD",
         "buy_buttons_EDGkb6",
+        "image_hCEHnr",
         "pickup_availability_mBXdEm"
       ],
       "name": "Featured product",
