@@ -717,6 +717,13 @@
             "title": "Le sérum MYCOSYL est-il adapté aux ongles fragilisés?",
             "content": "<p>Oui. Sa formule douce convient aux ongles fragiles ou abîmés et aux peaux sensibles.</p><p>Il peut être utilisé quotidiennement sans irritation.</p>"
           }
+        },
+        "item_VchBcc": {
+          "type": "item",
+          "settings": {
+            "title": "MYCOSYL fonctionne-t-il sur les ongles très abîmés ?",
+            "content": "<p>Oui. Il aide même lorsque l’ongle est épaissi,<br/>irrégulier, friable ou légèrement décollé.</p>"
+          }
         }
       },
       "block_order": [
@@ -726,7 +733,8 @@
         "item_74zfJE",
         "item_Gwemyz",
         "item_HrR6hm",
-        "item_jUWgxX"
+        "item_jUWgxX",
+        "item_VchBcc"
       ],
       "name": "FAQ",
       "settings": {
