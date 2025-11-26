@@ -329,7 +329,7 @@
         "content": "",
         "before_image": "shopify://shop_images/apres.jpg",
         "after_image": "shopify://shop_images/before.jpg",
-        "expand_image": false,
+        "expand_image": true,
         "text_position": "start",
         "before_after_text_position": "top",
         "before_text": "",
