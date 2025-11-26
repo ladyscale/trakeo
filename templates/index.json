@@ -451,10 +451,6 @@
     "featured_product_gi3Xnj": {
       "type": "featured-product",
       "blocks": {
-        "vendor_D6gx8F": {
-          "type": "vendor",
-          "settings": {}
-        },
         "liquid_VEUy6X": {
           "type": "liquid",
           "settings": {
@@ -465,6 +461,12 @@
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "liquid_rbEUaU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 6 restants</div>\n</div>"
           }
         },
         "badges_8mWkiw": {
@@ -527,9 +529,9 @@
         }
       },
       "block_order": [
-        "vendor_D6gx8F",
         "liquid_VEUy6X",
         "title_PdXVmq",
+        "liquid_rbEUaU",
         "badges_8mWkiw",
         "price_PgHJcj",
         "rating_UDj8qP",
