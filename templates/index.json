@@ -574,19 +574,11 @@
             "page": ""
           }
         },
-        "tab_kxgrir": {
+        "tab_eF3QgD": {
           "type": "tab",
           "settings": {
-            "title": "Caracteristique",
-            "content": "",
-            "page": ""
-          }
-        },
-        "tab_HhcVf4": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "",
+            "title": "Service clients 7j/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@mycosyl.com.</p>",
             "page": ""
           }
         }
@@ -595,8 +587,7 @@
         "tab_ELKpkr",
         "tab_UWawck",
         "tab_myarUP",
-        "tab_kxgrir",
-        "tab_HhcVf4"
+        "tab_eF3QgD"
       ],
       "name": "Tabs",
       "settings": {
