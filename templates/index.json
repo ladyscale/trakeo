@@ -724,6 +724,13 @@
             "title": "MYCOSYL fonctionne-t-il sur les ongles très abîmés ?",
             "content": "<p>Oui. Il aide même lorsque l’ongle est épaissi,<br/>irrégulier, friable ou légèrement décollé.</p>"
           }
+        },
+        "item_pDcQR3": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le sérum seul?",
+            "content": "<p>Oui, mais la combinaison lumière + sérum offre une action plus complète et de meilleurs résultats.</p>"
+          }
         }
       },
       "block_order": [
@@ -734,7 +741,8 @@
         "item_Gwemyz",
         "item_HrR6hm",
         "item_jUWgxX",
-        "item_VchBcc"
+        "item_VchBcc",
+        "item_pDcQR3"
       ],
       "name": "FAQ",
       "settings": {
