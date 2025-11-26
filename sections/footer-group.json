@@ -17,9 +17,9 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image_width": 90,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Inscrivez- vous pour recevoir nos offres et actualités",
             "content": ""
           }
         },
@@ -45,7 +45,6 @@
         "links",
         "text"
       ],
-      "disabled": true,
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
