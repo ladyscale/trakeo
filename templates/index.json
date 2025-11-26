@@ -520,12 +520,6 @@
             "max_width": 500
           }
         },
-        "rapi_rapi_bundle_bHmtEH": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": ""
-          }
-        },
         "buy_buttons_EDGkb6": {
           "type": "buy_buttons",
           "settings": {
@@ -535,6 +529,12 @@
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "#58c2a3",
             "payment_button_text_color": "#58c2a3"
+          }
+        },
+        "rapi_rapi_bundle_bHmtEH": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": ""
           }
         },
         "image_hCEHnr": {
@@ -562,8 +562,8 @@
         "variant_picker_awFt4L",
         "quantity_selector_ERjDRr",
         "image_TWp9VD",
-        "rapi_rapi_bundle_bHmtEH",
         "buy_buttons_EDGkb6",
+        "rapi_rapi_bundle_bHmtEH",
         "image_hCEHnr",
         "pickup_availability_mBXdEm"
       ],
@@ -925,17 +925,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "176419093285db6169": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -956,7 +945,6 @@
     "multi_column_JpXTT7",
     "faq_ViyyEM",
     "contact_pykGKb",
-    "text_with_icons_DbmW8T",
-    "176419093285db6169"
+    "text_with_icons_DbmW8T"
   ]
 }
