@@ -311,12 +311,37 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "before_after_image_AGg7LN": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/apres.jpg",
+        "after_image": "shopify://shop_images/before.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 66,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     }
   },
@@ -330,6 +355,7 @@
     "logo_list_LbRmRk",
     "rich_text_NbDNrF",
     "image_with_text_overlay_hnydJp",
-    "rich_text_8Ji3ex"
+    "rich_text_8Ji3ex",
+    "before_after_image_AGg7LN"
   ]
 }
