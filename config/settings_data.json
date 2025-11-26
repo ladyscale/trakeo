@@ -50,7 +50,7 @@
     "cart_type": "drawer",
     "cart_icon": "shopping_cart",
     "cart_empty_button_link": "shopify://products/appareil-anti-mycose",
-    "cart_show_free_shipping_threshold": true,
+    "cart_show_free_shipping_threshold": false,
     "favicon": "shopify://shop_images/M.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
