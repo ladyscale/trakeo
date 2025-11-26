@@ -696,13 +696,21 @@
             "title": "Le traitement est-il douloureux ? ",
             "content": "<p>Non. Les séances sont indolores, non invasives et sans chaleur excessive.</p>"
           }
+        },
+        "item_Gwemyz": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je porter des chaussures fermées pendant letraitement ?",
+            "content": "<p> Oui, mais pour optimiser les résultats :</p><p>Optez pour des chaussures respirantes, changez de chaussettes chaque jour et évitez l’humidité prolongée.</p><p><strong> </strong></p>"
+          }
         }
       },
       "block_order": [
         "item_WADWDA",
         "item_WFQhY7",
         "item_DXN4LC",
-        "item_74zfJE"
+        "item_74zfJE",
+        "item_Gwemyz"
       ],
       "name": "FAQ",
       "settings": {
