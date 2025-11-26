@@ -27,16 +27,16 @@
           "type": "links",
           "settings": {
             "menu": "footer",
-            "show_menu_title": true,
+            "show_menu_title": false,
             "menu_title": ""
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "",
+            "content": "<p>Service client: contact@mycosyl.com</p><p>Horaires : Du lundi au vendredi de 9h à 12h et de 14h à 18h</p><p>Samedi et dimanche de 10h à 12h</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
