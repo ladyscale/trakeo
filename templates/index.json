@@ -160,7 +160,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -451,10 +451,6 @@
     "featured_product_gi3Xnj": {
       "type": "featured-product",
       "blocks": {
-        "vendor_kefjCU": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_PdXVmq": {
           "type": "title",
           "settings": {
@@ -521,7 +517,6 @@
         }
       },
       "block_order": [
-        "vendor_kefjCU",
         "title_PdXVmq",
         "badges_8mWkiw",
         "price_PgHJcj",
@@ -551,6 +546,54 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_twY7nB": {
+      "type": "tabs",
+      "blocks": {
+        "tab_ELKpkr": {
+          "type": "tab",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Ce dispositif associe une lumière ciblée à un sérum<br/>antifongique pour accompagner efficacement la prise en charge des ongles<br/>touchés par la mycose.</p><p>Son objectif : soutenir une amélioration progressive et<br/>visible de l’ongle, sans douleur et dans le respect des tissus fragilisés.</p><p>La lumière agit localement sur la zone atteinte, tandis que<br/>le sérum contribue à assainir l’ongle et à favoriser une repousse plus<br/>régulière.</p><p>Pensé pour une utilisation quotidienne à domicile, ce soin<br/>offre une approche douce, structurée et non invasive, adaptée aux ongles<br/>sensibles.</p><p> </p>",
+            "page": ""
+          }
+        },
+        "tab_UWawck": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_HhcVf4": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_ELKpkr",
+        "tab_UWawck",
+        "tab_HhcVf4"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -566,6 +609,7 @@
     "rich_text_8Ji3ex",
     "before_after_image_AGg7LN",
     "multi_column_xXATxW",
-    "featured_product_gi3Xnj"
+    "featured_product_gi3Xnj",
+    "tabs_twY7nB"
   ]
 }
