@@ -703,6 +703,13 @@
             "title": "Puis-je porter des chaussures fermées pendant letraitement ?",
             "content": "<p> Oui, mais pour optimiser les résultats :</p><p>Optez pour des chaussures respirantes, changez de chaussettes chaque jour et évitez l’humidité prolongée.</p><p><strong> </strong></p>"
           }
+        },
+        "item_HrR6hm": {
+          "type": "item",
+          "settings": {
+            "title": "La mycose peut-elle revenir ?",
+            "content": "<p>Oui, surtout si le traitement est arrêté trop tôt ou si l’environnement reste humide.</p><p>Après amélioration, MYCOSYL peut être utilisé en entretien pour limiter les récidives.</p><p><strong> </strong></p>"
+          }
         }
       },
       "block_order": [
@@ -710,7 +717,8 @@
         "item_WFQhY7",
         "item_DXN4LC",
         "item_74zfJE",
-        "item_Gwemyz"
+        "item_Gwemyz",
+        "item_HrR6hm"
       ],
       "name": "FAQ",
       "settings": {
