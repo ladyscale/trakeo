@@ -163,6 +163,33 @@
         "background": "#F2F2F2",
         "background_gradient": ""
       }
+    },
+    "image_with_text_overlay_tdrjPn": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_yzCUVA": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yzCUVA"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "lg",
+        "image": "shopify://shop_images/banner_bureau_90de57a3-681a-4cdd-b31d-573a72816be4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -170,6 +197,7 @@
     "impact-text",
     "faq",
     "faq_nrtUKU",
-    "slideshow_gTG4y7"
+    "slideshow_gTG4y7",
+    "image_with_text_overlay_tdrjPn"
   ]
 }
