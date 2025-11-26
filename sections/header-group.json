@@ -87,7 +87,7 @@
         "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/LOGO_MYCOSYL.png",
-        "logo_max_width": 270,
+        "logo_max_width": 155,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -101,7 +101,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#1a1a1a",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 84,
         "background_blur_radius": 0
       }
