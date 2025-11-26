@@ -665,6 +665,59 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_ViyyEM": {
+      "type": "faq",
+      "blocks": {
+        "item_WADWDA": {
+          "type": "item",
+          "settings": {
+            "title": "Comment reconnaître une mycosedes ongles ?",
+            "content": "<p>Une mycose provoque souvent un ongle jauni, épaissi,<br/>friable, déformé ou partiellement décollé.</p><p>Si vous remarquez ces signes, il est conseillé d’agir rapidement.</p>"
+          }
+        },
+        "item_WFQhY7": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_DXN4LC": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_WADWDA",
+        "item_WFQhY7",
+        "item_DXN4LC"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -682,6 +735,7 @@
     "multi_column_xXATxW",
     "featured_product_gi3Xnj",
     "tabs_twY7nB",
-    "multi_column_JpXTT7"
+    "multi_column_JpXTT7",
+    "faq_ViyyEM"
   ]
 }
