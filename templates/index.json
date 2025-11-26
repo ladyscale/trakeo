@@ -363,11 +363,11 @@
         "item_NxPnGz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis_3.webp",
+            "image": "shopify://shop_images/avis_5.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -378,9 +378,9 @@
           "settings": {
             "image": "shopify://shop_images/avis_4.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je cachais mes pieds depuis des mois. L’appareil et le sérum ont vraiment changé l’apparence de l’ongle. Aujourd’hui, je n’ai plus honte de le montrer. </p><p>Karine T.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
