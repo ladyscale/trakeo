@@ -84,8 +84,8 @@
         "mega_menu_Ne646B"
       ],
       "settings": {
-        "enable_sticky": false,
-        "hide_on_scroll": false,
+        "enable_sticky": true,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/LOGO_MYCOSYL.png",
         "logo_max_width": 270,
         "logo_mobile_max_width": 100,

@@ -180,7 +180,7 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": false,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/banner_bureau.png",
