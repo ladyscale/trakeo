@@ -279,18 +279,6 @@
     },
     "image_with_text_overlay_hnydJp": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_nnqVMX": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_nnqVMX"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -304,6 +292,32 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_8Ji3ex": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rnzrwt": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rnzrwt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -315,6 +329,7 @@
     "image_with_text_overlay_tdrjPn",
     "logo_list_LbRmRk",
     "rich_text_NbDNrF",
-    "image_with_text_overlay_hnydJp"
+    "image_with_text_overlay_hnydJp",
+    "rich_text_8Ji3ex"
   ]
 }
