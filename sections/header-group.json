@@ -84,8 +84,8 @@
         "mega_menu_Ne646B"
       ],
       "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": true,
+        "enable_sticky": false,
+        "hide_on_scroll": false,
         "logo": "shopify://shop_images/LOGO_MYCOSYL.png",
         "logo_max_width": 270,
         "logo_mobile_max_width": 100,
@@ -94,14 +94,14 @@
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "left",
-        "layout": "logo_left_navigation_inline",
+        "layout": "logo_left_navigation_center",
         "show_social_media": true,
         "show_locale_selector": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#1a1a1a",
-        "reduce_padding": true,
+        "reduce_padding": false,
         "background_opacity": 84,
         "background_blur_radius": 0
       }
