@@ -953,17 +953,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "1764278250e73c4177": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -983,9 +972,8 @@
     "tabs_twY7nB",
     "multi_column_JpXTT7",
     "faq_ViyyEM",
-    "contact_pykGKb",
-    "text_with_icons_DbmW8T",
     "176427652463a8dfcb",
-    "1764278250e73c4177"
+    "contact_pykGKb",
+    "text_with_icons_DbmW8T"
   ]
 }
