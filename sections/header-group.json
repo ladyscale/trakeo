@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison gratuite",
+            "text": "Offre spéciale Black Friday",
             "url": ""
           }
         },
@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 13,
-        "background": "#58c2a3",
+        "background": "#ffed56",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
