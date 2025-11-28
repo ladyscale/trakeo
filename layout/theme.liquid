@@ -10,6 +10,13 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
 <!doctype html>
 
 <html lang="{{ request.locale.iso_code }}" dir="{% render 'direction' %}">
+  {% if request.path == '/pages/mentions-legales'
+   or request.path == '/pages/conditions-generales-de-vente'
+   or request.path == '/pages/politique-de-confidentialite'
+   or request.path == '/pages/politique-dexpedition-et-de-livraison'
+   or request.path == '/pages/politique-de-retour-et-de-remboursement' %}
+<meta name="robots" content="noindex">
+{% endif %}
   <head>
     <meta name="facebook-domain-verification" content="89tyxdi01waqhxhe9gpgn66dytcy02" />
    <meta name="google-site-verification" content="FX52XQnsgv4jLKDVHHiezRhxdttlPerLrmmjK2Y669Y" />
