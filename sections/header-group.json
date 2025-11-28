@@ -17,28 +17,20 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offre spéciale Black Friday",
-            "url": ""
-          }
-        },
-        "message_znWWaQ": {
-          "type": "message",
-          "settings": {
-            "text": "Satisfait ou Remboursé",
+            "text": "Offre spéciale Black Friday Jusquà -65% de réduction",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message",
-        "message_znWWaQ"
+        "message"
       ],
       "settings": {
         "enable_sticky": true,
         "autoplay": true,
-        "cycle_speed": 6,
+        "cycle_speed": 9,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 13,
         "background": "#ffed56",
         "background_gradient": "",
