@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offre spéciale Black Friday                                                     Jusquà -65% de réduction",
+            "text": "Offre spéciale Black Friday",
             "url": ""
           }
         }
@@ -29,7 +29,7 @@
         "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 9,
-        "text_size": "text-lg",
+        "text_size": "text-base",
         "navigation_mode": "arrows",
         "scrolling_speed": 13,
         "background": "#ffed56",
