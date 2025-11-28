@@ -29,7 +29,7 @@
         "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 9,
-        "text_size": "text-xs",
+        "text_size": "text-lg",
         "navigation_mode": "arrows",
         "scrolling_speed": 13,
         "background": "#ffed56",
