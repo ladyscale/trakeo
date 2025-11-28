@@ -21,13 +21,6 @@
             "url": ""
           }
         },
-        "message_Wyy7Kq": {
-          "type": "message",
-          "settings": {
-            "text": "Paiement 100% sécurisé",
-            "url": ""
-          }
-        },
         "message_znWWaQ": {
           "type": "message",
           "settings": {
@@ -38,7 +31,6 @@
       },
       "block_order": [
         "message",
-        "message_Wyy7Kq",
         "message_znWWaQ"
       ],
       "settings": {
