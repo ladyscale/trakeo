@@ -515,7 +515,7 @@
         "image_TWp9VD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/CYBER_MONDAY.png",
+            "image": "shopify://shop_images/OFFRE_NOEL.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -535,6 +535,14 @@
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "#58c2a3",
             "payment_button_text_color": "#58c2a3"
+          }
+        },
+        "image_E4CbQt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "image_hCEHnr": {
@@ -564,6 +572,7 @@
         "image_TWp9VD",
         "rapi_rapi_bundle_bHmtEH",
         "buy_buttons_EDGkb6",
+        "image_E4CbQt",
         "image_hCEHnr",
         "pickup_availability_mBXdEm"
       ],
